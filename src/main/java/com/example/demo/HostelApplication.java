@@ -10,7 +10,7 @@ public class HostelApplication {
 		SpringApplication.run(HostelApplication.class, args);
 		System.Out.Print("hello");
 		System.Out.Print("hello");
-		System.Out.Print("hello");
+		
 		//this is the fist change
 	}
 
