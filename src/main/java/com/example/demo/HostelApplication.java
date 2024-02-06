@@ -8,11 +8,7 @@ public class HostelApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(HostelApplication.class, args);
-		System.Out.Println("this is the second commit");
-		System.Out.Println("this is the second commit");
-		System.Out.Println("this is the second commit");
-		System.Out.Println("this is the second commit");
-		System.Out.Println("this is the second commit");
+		
 		//this is the fist change
 	}
 
